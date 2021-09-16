@@ -1,0 +1,10 @@
+name = "taplist-worker"
+type = "javascript"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+kv_namespaces = [
+  { binding = "taplist", id = "7a6f2bebdee540e58e69a01e1a72334d", preview_id = "6c7d55602e464ce5b9d6e206977034f5" }
+]
